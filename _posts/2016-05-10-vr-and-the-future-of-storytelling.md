@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Writer/Director Mike Judge exhibited uncanny foresight in his dystopian satire Idiocracy, which featured a popular TV show called Ow, My Balls.The fetishistic schadenfreude of that imaginary show wouldn't be at all out of place among the fail video channels on YouTube today. What Judge was railing against was the short attention spans and unsophisticated tastes of the ADHD generation. But these are as much symptoms of un-engaging content as they are of inattentive audiences. Seven-second Vines and 140 character tweets represent the epitome of short attention span media. Yet, at the same time, huge audiences binge-watch entire seasons of well-crafted TV series on Netflix."
-datePublished: '2016-05-10T02:50:23.267Z'
-dateModified: '2016-05-10T02:50:10.804Z'
+datePublished: '2016-05-10T02:50:50.660Z'
+dateModified: '2016-05-10T02:50:30.783Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-vr-and-the-future-of-storytelling.md
