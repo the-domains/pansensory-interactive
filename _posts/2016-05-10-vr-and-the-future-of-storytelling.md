@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Writer/Director Mike Judge exhibited uncanny foresight in his dystopian satire Idiocracy, which featured a popular TV show called Ow, My Balls.The fetishistic schadenfreude of that imaginary show wouldn't be at all out of place among the fail video channels on YouTube today. What Judge was railing against was the short attention spans and unsophisticated tastes of the ADHD generation. But these are as much symptoms of un-engaging content as they are of inattentive audiences. Seven-second Vines and 140 character tweets represent the epitome of short attention span media. Yet, at the same time, huge audiences binge-watch entire seasons of well-crafted TV series on Netflix."
-datePublished: '2016-05-10T02:46:33.785Z'
-dateModified: '2016-05-10T02:45:41.048Z'
+datePublished: '2016-05-10T02:48:26.123Z'
+dateModified: '2016-05-10T02:47:52.515Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-vr-and-the-future-of-storytelling.md
@@ -56,6 +56,6 @@ For many years, researchers at Stanford University's Virtual Human Interaction L
 
 Because the real purpose of storytelling isn't to entertain. It's true that stories have always been more likely to achieve their purpose if they are entertaining, but if you think about it, stories were the first man-made technology for storing and sharing information. Even as the technology of storytelling evolves, stories continue to serve that purpose; encapsulating knowledge and wisdom in an engaging form and challenging audiences to think for themselves.
 
-[First published on linkedin.com][0]
+[_Article first published on linkedin.com_][0]
 
-[0]: null
+[0]: https://www.linkedin.com/pulse/vr-future-storytelling-ollie-rankin
