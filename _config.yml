@@ -1,0 +1,28 @@
+name: Pansensory Interactive
+favicon: null
+layout_spectrum: 0.5737601381260902
+typography_spectrum: 0.6902958394493908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.12906531267799437
+  lightness: 0.12076181056909263
+  saturation: 0.30327238002792
+  rhythmicContrast: 0.9630726168397814
+purpose: []
